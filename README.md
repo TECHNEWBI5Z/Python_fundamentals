@@ -1,16 +1,24 @@
-# Python_fundamentals
-These python scripts is specially designed for new beginners for coding using python.
+Python Fundamentals
 
-# Hello beginners,
-I have incorporated a lot of practice question for learning fundamental of coding using python
-contents included: 
+These Python scripts are specially designed for new beginners learning to code using Python.
+
+Hello Beginners,
+
+I have incorporated a lot of practice questions for learning the fundamentals of coding using Python. The contents included are:
+
 1. Basics on inputs and type casting
-2. Basic programmes on IF CONDITION problem
-3. LISTS and TUPLE
-4. DICTIONARIES AND SETS
-5. WHILEL LOOPS
-6. FOR LOOP
-7. DIFINING FUNCTIONS AND CALLING FUUNCTION
-8. RECURSSION FUNCTIONS
-9. FILE I/O in Python
-10. CLASSES AND OBJECTS (Principles and Decorators)
+2. Basic programs on IF conditions
+3. Lists and Tuples
+4. Dictionaries and Sets
+5. While loops
+6. For loops
+7. Defining functions and calling functions
+8. Recursion functions
+9. File I/O in Python
+10. Classes and objects (principles and decorators)
+
+NOTE: Uncomment the code while operating on it.
+
+Reference: Questions were derived from Apna College.
+
+
